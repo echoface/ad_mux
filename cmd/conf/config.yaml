@@ -1,0 +1,4 @@
+# config for elastic boolean search engine
+server_bind: "0.0.0.0:5000"
+raft_bind_addr: "127.0.0.1:5010"
+doc_store_volume: "./data"
